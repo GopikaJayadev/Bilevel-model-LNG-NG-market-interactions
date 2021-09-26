@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use the parameter file in your research, please cite the paper titled Strategic interactions between liquefied natural gas and domestic gas markets: A bilevel model."
+authors:
+- family-names: "Geetha Jayadev"
+  given-names: "Gopika"
+  orcid: "https://orcid.org/0000-0003-2237-6837"
+title: "Supplementary files for Strategic interactions between liquefied natural gas and domestic gas markets: A bilevel model"
+version: 1.0.0
+doi: 10.5281/zenodo.1234
+date-released: 2021-09-26
+url: "https://github.com/GopikaJayadev/Bilevel-model-LNG-NG-market-interactions"
